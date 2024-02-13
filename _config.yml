@@ -1,0 +1,4 @@
+theme: jekyll-theme-slate
+# Site Settings
+locale                   : "ja"
+title                    : "格子QCD夏の学校2024"
