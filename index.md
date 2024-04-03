@@ -44,9 +44,9 @@ sg-l などでお知らせします。
 
 研究室に掲示して告知していただけると幸いです。
 
-<img src="poster_pub_Mar23.jpg" alt="ポスター" width="50%">
+<img src="poster_pub_Apr03.jpg" alt="ポスター" width="50%">
 
-[高画質PDF](poster_pub_Mar23.pdf)
+[高画質PDF](poster_pub_Apr03.pdf)
 
 ## 世話人
 
