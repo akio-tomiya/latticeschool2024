@@ -44,10 +44,6 @@
 
 ## 参加登録
 
-4月中旬以降、5月くらいにはお知らせします。
-sg-l などでお知らせします。
-
-<!-- 
 以下のフォームよりご登録ください。
 
 [参加登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSfxUwIXTVrIvYWDBsk2b3IIpHtz3hXQ4GAowKYteTZibS4nIg/viewform)
@@ -59,7 +55,6 @@ sg-l などでお知らせします。
   - 旅費補助不要: 2024/8/18 (日) 23:59 JST
 - オンライン参加:
   - 随時参加登録可能
--->
 
 ## ポスター
 
