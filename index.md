@@ -74,9 +74,9 @@
 
 研究室に掲示して告知していただけると幸いです。
 
-<img src="poster_pub_Apr15.jpg" alt="ポスター" width="50%">
+<img src="poster_pub_Jul16.jpg" alt="ポスター" width="50%">
 
-[高画質PDF](poster_pub_Apr15.pdf)
+[高画質PDF](poster_pub_Jul16.pdf)
 
 ## お問い合わせ
 
