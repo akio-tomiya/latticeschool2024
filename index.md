@@ -72,11 +72,11 @@
 を用いて実際に計算をやってみます。3部構成で以下のように行いたいと思います。
 参加したい方は、パソコンを持ってください。
 
-1.Julia のインストール、Jupyter の立ち上げ (永井)
-2.LatticeQCD.jlの概要 (初心者向け、富谷)
+1. Julia のインストール、Jupyter の立ち上げ (永井)
+2. LatticeQCD.jlの概要 (初心者向け、富谷)<br>
 LatticeQCD.jl をJupyter notebook で走らせます。
 そしてQuenched QCDの配位を熱浴法で生成しπ中間子の質量を計算してみます。
-3.Gaugefields.jl を少しいじってみる (玄人向け、富谷永井)
+3. Gaugefields.jl を少しいじってみる (玄人向け、富谷永井)<br>
 　実際にQuenched QCD (heatbath/HMC)のコードを打ち込んでみて、
 　Polyakov loop の散布図を見てみるなどを考えてみます。
 
