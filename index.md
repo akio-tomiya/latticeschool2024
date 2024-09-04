@@ -68,20 +68,26 @@
 多くの皆さんの参加をお待ちしています。
 
 ## ハンズオン
-9/12 (木)　15:30　よりハンズオンを行います。[LatticeQCD.jl](https://github.com/akio-tomiya/LatticeQCD.jl)
-等を用いて実際に計算をやってみます。3部構成で以下のように行いたいと思います。
-参加したい方は、パソコンを持ってください。
+9/12 (木) 15:30 よりハンズオンを行います。[LatticeQCD.jl](https://github.com/akio-tomiya/LatticeQCD.jl)
+や[Gaugefields.jl](https://github.com/akio-tomiya/Gaugefields.jl) 等を用いて実際に計算をやってみます。全体は3部構成で以下のように行いたいと思います。
+参加したい方は、パソコンを持って来てください(オンライン参加の方は、基本的に聴講のみの対応です)。
+
+Julia言語 は2018年にバージョン1が公開されたオープンソースの科学技術計算言語で、 Fortranの様に高速でかつPythonの様に生産性の高い言語です。
+LatticeQCD.jl は格子QCDの数値計算を行うためのJulia言語で書かれたオープンソースのソフトウェアで、
+インストールから実行開始まで5分以内に始められる、4次元SU(3)ダイナミカルフェルミオンを扱える本格的なコードです。
 
 1. Julia のインストール、Jupyter の立ち上げ (永井)
 2. LatticeQCD.jlの概要 (初心者向け、富谷)<br>
-LatticeQCD.jl をJupyter notebook で走らせます。
-そしてQuenched QCDの配位を熱浴法で生成しπ中間子の質量を計算してみます。
-3. Gaugefields.jl を少しいじってみる (玄人向け、富谷永井)<br>
-　実際にQuenched QCD (heatbath/HMC)のコードを打ち込んでみて、
-　Polyakov loop の散布図を見てみるなどを考えてみます。
+LatticeQCD.jl をJupyter notebook で走らせます。Quenched QCDの配位を熱浴法で生成しπ中間子の質量を計算してみます。
+3. Gaugefields.jlを少しいじってみる (玄人向け、富谷永井)<br>実際にQuenched QCD (heatbath/HMC)のコードを打ち込んでみて、Polyakov loopの散布図を見てみるなどを考えてみます。
 
-18時までなら教室を使えるので、残ってやりたい人は
-17時以降もしばらく続けてもらうことが可能です。
+18時までなら教室を使えるので、残ってやりたい方は17時以降もしばらく続けてもらうことが可能です。
+
+### 参考文献
+- 動画: [LatticeQCD.jlで始める格子QCD【Julia in Physics 2021】](https://www.youtube.com/watch?v=R5bNW6aEkuI)
+- 動画: [Fortran から始めるJulia【Julia in Physics 2021】](https://www.youtube.com/watch?v=88P5kOy4E78)
+- 書籍: [Juliaではじめる数値計算入門 永井佑紀 著](https://gihyo.jp/book/2024/978-4-297-14128-8)
+- 書籍: [1週間で学べる! Julia数値計算プログラミング 永井佑紀 著](https://bookclub.kodansha.co.jp/product?item=0000348223)
 
 ## 旅費補助
 
