@@ -102,9 +102,9 @@ LatticeQCD.jl をJupyter notebook で走らせます。Quenched QCDの配位を�
 
 ## 参加登録
 
-以下のフォームよりご登録ください。
+本スクールは終了しました。
 
-[参加登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSfxUwIXTVrIvYWDBsk2b3IIpHtz3hXQ4GAowKYteTZibS4nIg/viewform)
+<!-- [参加登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSfxUwIXTVrIvYWDBsk2b3IIpHtz3hXQ4GAowKYteTZibS4nIg/viewform) -->
 
 ### 締切
 
