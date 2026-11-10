@@ -71,6 +71,8 @@
 多くの皆さんの参加をお待ちしています。
 
 ## ハンズオン
+> 注 (2026年11月)：このページの Julia のコード (tutorial3.jl、heatbath.jl、su3_polyakov_loop.ipynb) は、2024年当時の Gaugefields.jl (v1 より前) の書き方です。今の Gaugefields.jl v1 でも互換の API として残っていますが、新しく書くときは [Gaugefields.jl の README](https://github.com/akio-tomiya/Gaugefields.jl) の v1 の書き方 (`gauge_configuration` など) を使ってください。古い書き方と v1 の対応表は [Legacy API のページ](https://akio-tomiya.github.io/Gaugefields.jl/v1/legacyapi/) にあります。
+
 9/12 (木) 15:30 よりハンズオンを行います。[LatticeQCD.jl](https://github.com/akio-tomiya/LatticeQCD.jl)
 や[Gaugefields.jl](https://github.com/akio-tomiya/Gaugefields.jl) 等を用いて実際に計算をやってみます。全体は3部構成で以下のように行いたいと思います。
 参加したい方は、パソコンを持って来てください(オンライン参加の方は、基本的に聴講のみの対応です)。
